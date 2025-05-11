@@ -1,5 +1,4 @@
 # bulkinstall_apps_on_windows
-# bulkinstall_apps_on_windows
 
 # Windows Application Auto Installer
 
